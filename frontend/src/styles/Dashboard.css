@@ -1,0 +1,9 @@
+/* Dashboard Styles */
+.dashboard-container {
+  width: 100%;
+}
+
+.dashboard-container h1 {
+  margin-bottom: 24px;
+  color: #1890ff;
+}
